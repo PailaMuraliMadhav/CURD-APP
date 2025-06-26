@@ -1,0 +1,12 @@
+{
+  "name": "curd",
+  "version": "1.0.0",
+  "description": "second project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "Muralipaila",
+  "license": "ISC",
+  "type": "module"
+}
