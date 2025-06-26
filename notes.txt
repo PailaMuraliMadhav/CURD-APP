@@ -17,3 +17,9 @@ can be used to create a controller for the database
 
 routes -> todoRoutes.js
 can be used to create a route for the database
+
+app.js->
+
+diff btw export and export default is that
+export- is we need to give the same file name
+export default- we can give the default name of the file
