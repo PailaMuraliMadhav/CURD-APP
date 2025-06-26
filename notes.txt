@@ -1,0 +1,19 @@
+install all  dev dependencies
+
+-> npm i express dotenv
+->npm i express mongoose
+-> npm i -D nodemon
+
+
+config -> dbConnect 
+Can be used to connect to the database in any project
+
+
+models -> todomodels.js
+can be used to create a schema for the database
+
+constroller -> todocontrollers.js
+can be used to create a controller for the database
+
+routes -> todoRoutes.js
+can be used to create a route for the database
