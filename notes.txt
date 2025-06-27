@@ -23,3 +23,24 @@ app.js->
 diff btw export and export default is that
 export- is we need to give the same file name
 export default- we can give the default name of the file
+
+
+only logical parts,models and routes changes in while creating a new project.
+
+
+In POSTMAN
+ click + -> blankCollection -> add request -> post add https://localhost:8090/api/v1/todos 
+ -> write body {
+    "title":"hi",
+    "description : "httf"
+ }
+ -> select json type -> select POST and send 
+ ->select get and send 
+
+ Atlas ( Mongo DB)
+ go to collections -> in test you can see
+
+
+ GET ONE TODO->
+ http://localhost:8090/api/v1/todos/685e282e4e01df0e5884942a 
+ copy paste the if and send
